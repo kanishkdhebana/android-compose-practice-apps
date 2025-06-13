@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Flight Search</string>
+    <string name="search_placeholder">Type here</string>
+    <string name="depart">DEPART</string>
+    <string name="favourite_routes">Favourite Routes\n</string>
+    <string name="arrive">ARRIVE</string>
+</resources>
