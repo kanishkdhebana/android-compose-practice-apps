@@ -1,7 +1,7 @@
 # Jetpack Compose Samples
 
-> These projects are based on Google's Jetpack Compose codelabs and starter templates.  
-> Original source code is licensed under the [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0).
+> These projects are based on Google's Jetpack Compose codelabs and starter templates. 
+> The original source code, provided by the [Google Developer Training program](https://github.com/google-developer-training), is licensed under the [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
 A collection of small Android apps built with Jetpack Compose, demonstrating UI components, state handling, layout structures, and basic interaction patterns.
 
